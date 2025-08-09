@@ -1,16 +1,39 @@
 # Hi, I'm Ayman 👋  
 
 🎓 **Second-year Engineering Student** at [Télécom SudParis](https://www.telecom-sudparis.eu/en/), specializing in **Artificial Intelligence** and **Data Science**.  
-📍 Currently pursuing advanced training in **Machine Learning**, **Deep Learning**, and **Natural Language Processing** through my studies and projects.  
+📍 Based in **Montréal, Canada**, currently pursuing advanced training in **Machine Learning**, **Deep Learning**, and **Natural Language Processing** through my studies and projects.  
 
 💡 Passionate about **emerging technologies**, I enjoy building AI systems that bridge research and real-world applications — from **computer vision for medical imaging** to **NLP for Indigenous languages**.  
 
 ---
 
-## 🔬 Current Work & Projects  
+## 📚 Education & Background
 
-- **Mila – Quebec AI Institute** *(Summer 2025)*  
-  Developing a **Large Language Model (LLM)** for **Canadian Indigenous languages**, integrating local datasets and a **RAG system** (Retrieval-Augmented Generation) for tracking Equity, Diversity & Inclusion (**EDI**) policies.  
+- **M2 – Data Science (2025–2026)**, École polytechnique, Palaiseau, France  
+  Advanced coursework in Machine Learning, Deep Learning, NLP, Big Data Frameworks, Reinforcement Learning, Monte Carlo methods, Optimization for Data Science, and Optimal Transport.
+
+- **Élève ingénieur – Télécom SudParis (since 2023)**, Évry-Courcouronnes, France  
+  Focus on data analysis, signal processing, computer vision, IoT implementation, statistics, data visualization, management & economy, databases, machine learning, and NLP.
+
+- **CPGE (Preparatory Classes) – Lycée Joffre (2021–2023)**, Montpellier, France  
+
+---
+
+## 💼 Experience & Leadership  
+
+- **Research Intern – Mila, Quebec AI Institute** *(Jul 2025 – Aug 2025)*  
+  Developed a **Large Language Model (LLM)** for **Canadian Indigenous languages**, integrating local datasets and a **RAG system** for monitoring Equity, Diversity & Inclusion (**EDI**) policies.  
+  Delivered a presentation at the **Ashukan Institute** on **AI bias**, explaining how bias can influence chatbot behavior and proposing strategies to mitigate its impact.
+
+- **Head of Research, AI Team – Kryptosphere** *(since Dec 2024)*  
+  Organize monthly training sessions and explore advanced AI applications within the student organization.
+
+- **Data Scientist Intern – Avito.ma** *(Jul 2024 – Aug 2024)*  
+  Developed a machine learning model to predict apartment prices with **75%+ accuracy**; performed data preprocessing, trend analysis, and visualization using **Python**, **SQL**, and **Matplotlib**.
+
+---
+
+## 🔬 Projects  
 
 - **Brain Tumor Segmentation with Mamba Architectures** 🏆  
   Exploring advanced sequence modeling architectures for **medical image segmentation** using MRI scans.  
@@ -18,6 +41,9 @@
 
 - **Optimizing MedNeXt for Brain Tumor Detection**  
   Enhancing CNN-based architectures with **CBAM** to improve diagnostic accuracy.  
+
+- **AI for Ghosts (Java Project)**  
+  Developed an AI-driven agent for game characters, focusing on pathfinding and decision-making strategies.
 
 ---
 
@@ -49,6 +75,14 @@ Matplotlib • Seaborn • Data storytelling techniques
 - 🇬🇧 **English:** Advanced (C1)  
 - 🇲🇦 **Arabic:** Native  
 - 🇪🇸 **Spanish:** Beginner (A1)  
+
+---
+
+## 🙌 Volunteering & Interests  
+
+- **Academic Mentor – Collège Galilée:** Volunteer tutor in mathematics and physics, helping students strengthen their understanding and confidence.  
+- **Basketball:** Member of the Télécom SudParis basketball team.  
+- **Interests:** Artificial Intelligence, emerging technologies, basketball.
 
 ---
 
