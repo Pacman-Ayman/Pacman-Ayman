@@ -71,9 +71,9 @@ Matplotlib • Seaborn • Data storytelling techniques
 
 ## 🌍 Languages  
 
-- 🇫🇷 **French:** Native / Full proficiency  
+- 🇫🇷 **French:** Full proficiency  
 - 🇬🇧 **English:** Advanced (C1)  
-- 🇲🇦 **Arabic:** Native  
+- 🇲🇦 **Arabic:** Full proficiency  
 - 🇪🇸 **Spanish:** Beginner (A1)  
 
 ---
@@ -94,4 +94,5 @@ Matplotlib • Seaborn • Data storytelling techniques
 ---
 
 ⚡ *"AI is not just about technology, it’s about impact."*
+
 
