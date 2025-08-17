@@ -92,7 +92,15 @@ Matplotlib • Seaborn • Data storytelling techniques
 📧 [orkhisayman@gmail.com](mailto:orkhisayman@gmail.com)  
 
 ---
+### 📊 Stats
+
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pacman-Ayman&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
 
 ⚡ *"AI is not just about technology, it’s about impact."*
+
 
 
