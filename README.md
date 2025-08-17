@@ -1,6 +1,6 @@
 # Hi, I'm Ayman 👋  
 
-🎓 **Second-year Engineering Student** at [Télécom SudParis](https://www.telecom-sudparis.eu/en/), specializing in **Artificial Intelligence** and **Data Science**.  
+🎓 **Third-year Engineering Student** at [Télécom SudParis](https://www.telecom-sudparis.eu/en/), specializing in **Artificial Intelligence** and **Data Science**.  
 📍 Currently pursuing advanced training in **Machine Learning**, **Deep Learning**, and **Natural Language Processing** through my studies and projects.  
 
 💡 Passionate about **emerging technologies**, I enjoy building AI systems that bridge research and real-world applications — from **computer vision for medical imaging** to **NLP for Indigenous languages**.  
@@ -101,6 +101,7 @@ Matplotlib • Seaborn • Data storytelling techniques
 #
 
 ⚡ *"AI is not just about technology, it’s about impact."*
+
 
 
 
