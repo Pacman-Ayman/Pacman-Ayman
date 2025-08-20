@@ -21,7 +21,7 @@
 
 ## 💼 Experience & Leadership  
 
-- **Research Intern – Mila, Quebec AI Institute** *(Jul 2025 – Aug 2025)*  
+- **ILLS Lab (Mila) – ÉTS | Montréal, QC, Canada** *(Jul 2025 – Aug 2025)*  
   Developed a **Large Language Model (LLM)** for **Canadian Indigenous languages**, integrating local datasets and a **RAG system** for monitoring Equity, Diversity & Inclusion (**EDI**) policies.  
   Delivered a presentation at the **Ashukan Institute** on **AI bias**, explaining how bias can influence chatbot behavior and proposing strategies to mitigate its impact.
 
@@ -101,6 +101,7 @@ Matplotlib • Seaborn • Data storytelling techniques
 #
 
 ⚡ *"AI is not just about technology, it’s about impact."*
+
 
 
 
