@@ -49,23 +49,35 @@
 
 ## 🛠 Skills  
 
-**Programming & Tools:**  
-`Python` • `Java` • `Bash` • `SQL` • `HTML/CSS` • `Git` • `Linux`  
+### 👨‍💻 Programming & Tools  
+- Python • Java • JavaScript • Bash • SQL • HTML/CSS  
+- Git • GitHub • Linux • VS Code • Jupyter  
 
-**Data Science Core Skills:**  
-📊 **Statistics & Probability** — hypothesis testing, confidence intervals, regression analysis  
-📈 **Data Analysis** — descriptive & inferential analysis, feature engineering  
-🛢 **Data Engineering Basics** — data cleaning, ETL pipelines, database querying (SQL)  
-📉 **Experimentation** — A/B testing, statistical significance, error analysis  
+### 📊 Data Science Core Skills  
+- **Statistics & Probability** → hypothesis testing, confidence intervals, regression analysis  
+- **Data Analysis** → descriptive & inferential analysis, feature engineering  
+- **Data Engineering** → data cleaning, ETL pipelines, data streaming, real-time processing   
 
-**ML & AI Expertise:**  
-Supervised & Unsupervised Learning • Deep Learning • NLP • Computer Vision • Signal Processing  
+### 🤖 ML & AI Expertise  
+- Supervised & Unsupervised Learning  
+- Deep Learning (CNN, RNN/LSTM/GRU, Transformers, Mamba)  
+- NLP • Computer Vision • Signal Processing  
+- Generative Models → GANs, VAEs, Diffusion Models  
+- Reinforcement Learning  
 
-**Libraries & Frameworks:**  
-Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • Matplotlib • Seaborn • nnU-Net • RAG (Retrieval-Augmented Generation)  
+### 📚 Libraries & Frameworks  
+- Pandas • NumPy • Scikit-learn  
+- TensorFlow • PyTorch • Keras • nnU-Net v1&2  
+- Seaborn • Matplotlib  
+- Django • Vue.js • Vite • Streamlit  
+- **RAG** (Retrieval-Augmented Generation)  
 
-**Data Visualization:**  
-Matplotlib • Seaborn • Data storytelling techniques  
+### ☁️ Big Data & Cloud  
+- Hadoop • Spark • Kafka • Flink  
+- Docker • Kubernetes • AWS  
+
+### 📊 Data Visualization  
+- Interactive dashboards & reports (Matplotlib, Seaborn, Streamlit, Plotly)   
 
 ---
 
@@ -101,6 +113,7 @@ Matplotlib • Seaborn • Data storytelling techniques
 #
 
 ⚡ *"AI is not just about technology, it’s about impact."*
+
 
 
 
